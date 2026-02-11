@@ -5,6 +5,7 @@
 #####scope
 ######scope 
 its not a bad idea
+* italics
 ```python```
 code
 moredoce
